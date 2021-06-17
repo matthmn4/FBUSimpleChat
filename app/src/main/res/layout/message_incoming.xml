@@ -31,7 +31,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/tvName"
         android:layout_alignLeft="@+id/tvName"
-        android:background="@drawable/ic_launcher_background"
+        android:background="@drawable/message_inc"
         android:elevation="2dp"
         android:paddingHorizontal="16dp"
         android:paddingVertical="12dp"
